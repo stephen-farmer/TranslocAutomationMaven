@@ -5,8 +5,8 @@ This framework is built in Java and uses Maven to bring in dependencies for Sele
 
 Each test class is run using TestNG which gives us lots of options and capabilities for automation testing. After the test run a report is generated using Extent Reports. These are html files that you can view in the Reports folder of the repo.
 
-
-
-To use the framework download IntelliJ IDE by JetBrains here and clone the repo into it: https://www.jetbrains.com/idea/download
+To use the framework download IntelliJ IDE by JetBrains here and open the repo directory after cloning it to your local hard drive: https://www.jetbrains.com/idea/download
 
 There may be some plugins required for Cucumber and Gherkin, the IDE should automatically prompt you to download them
+
+Upon opening the project for the first time, the IDE might take a minute or two to fully import all dependencies and build, just monitor the progress at the very bottom of the IDE window.
