@@ -7,6 +7,4 @@ Each test class is run using TestNG which gives us lots of options and capabilit
 
 To use the framework download IntelliJ IDE by JetBrains here and open the repo directory after cloning it to your local hard drive: https://www.jetbrains.com/idea/download
 
-There may be some plugins required for Cucumber and Gherkin, the IDE should automatically prompt you to download them.
-
 Upon opening the project for the first time, the IDE might take a minute or two to fully import all dependencies and build, just monitor the progress at the very bottom of the IDE window.
